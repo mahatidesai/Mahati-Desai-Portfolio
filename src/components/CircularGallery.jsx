@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react';
 import Laptop from '../assets/images/laptop.jpg'
 import Food from '../assets/images/eat.jpg'
 import Travel from '../assets/images/travel.jpg'
-import Dance from '../assets/images/dance.jpg'
+import Dance from '../assets/images/Dance.jpg'
 import Netflix from '../assets/images/Netflix.jpg'
 import MyPhoto from '../assets/images/mahati.jpg'
 import Mumbai from '../assets/images/Mumbai.jpg'
